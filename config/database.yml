@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-  database: hello-react_rails_app_development
+  database: Hello-react_rails---app_development
   username: postgres
   password: adebowale
   host: 127.0.0.1
@@ -61,7 +61,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  database: hello-react_rails_app_test
+  database: Hello-react_rails---app_test
   username: postgres
   password: adebowale
   host: 127.0.0.1
@@ -89,6 +89,6 @@ test:
 #
 production:
   <<: *default
-  database: hello-react_rails_app_production
+  database: Hello-react_rails---app_production
   username: Hello_rails_react
   password: <%= ENV["HELLO_RAILS_REACT_DATABASE_PASSWORD"] %>
