@@ -70,8 +70,8 @@ end
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem 'capybara'
+  gem 'react-rails'
   gem 'selenium-webdriver'
   gem 'webdrivers'
-  gem 'react-rails'
   gem 'webpacker'
 end
