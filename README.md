@@ -15,7 +15,7 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+- [📖hello-react_rails backend project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
 - [💻 Getting Started](#getting-started)
