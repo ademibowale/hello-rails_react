@@ -27,8 +27,6 @@ Go ahead and check the most recent version of each of these:
 ### Clone this repository
 ```bash
 $ https://github.com/ademibowale/hello-rails_react.git
-$ cd hello-rails-backend
-```
 
 ### Run project
 
